@@ -1,10 +1,4 @@
-
-# CART-102 — Cart subtotal in cents
-# Type: Story · Priority: P3 · Estimate: 3 points
-
-# Service: pricing-engine
 # Self-checkout and the associate “price this cart” handheld share this.
-# One-cent drift and the till is short at close.
 
 from typing import TypedDict
 
